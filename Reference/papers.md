@@ -20,18 +20,24 @@
 ***Additional Reading:***
 - Mirea, D. M., Nook, E. C., & Niv, Y. (2025). Cognitive modeling of real-world behavior for understanding mental health. Trends in cognitive sciences, S1364-6613(25)00208-6. Advance online publication. https://doi.org/10.1016/j.tics.2025.07.009
 
-**Date:** 10/24/2025 
+**Date:** 10/24/2025
 **Topic:** Reinforcement Learning 03: Balloon Analogue Risk Task 02
 **Presenter:** Qiuyu Yu
 
 ***Required Reading:***
+
 Lauriola, M., Panno, A., Levin, I. P., & Lejuez, C. W. (2014). Individual differences in risky decision making: A meta‐analysis of sensation seeking and impulsivity with the balloon analogue risk task. Journal of Behavioral Decision Making, 27(1), 20–36. https://doi.org/10.1002/bdm.1784
 
 Wang, M., Zhang, S., Suo, T., Mao, T., Wang, F., Deng, Y., Eickhoff, S., Pan, Y., Jiang, C., & Rao, H. (2022). Risk-taking in the human brain: An activation likelihood estimation meta-analysis of the balloon analog risk task (BART). Human brain mapping, 43(18), 5643–5657. https://doi.org/10.1002/hbm.26041
 
 ***Additional Reading:***
+
 Zhou, R., & Pitt, M. A. (2024). Dual-process modeling of sequential decision making in the balloon analogue risk task. Cognitive Psychology, 149, 101629. https://doi.org/10.1016/j.cogpsych.2023.101629
 
 Liu, Q., Zhong, R., Ji, X., Law, S., Xiao, F., Wei, Y., Fang, S., Kong, X., Zhang, X., Yao, S., & Wang, X. (2022). Decision-making biases in suicide attempters with major depressive disorder: A computational modeling study using the balloon analog risk task (BART). Depression and anxiety, 39(12), 845–857. https://doi.org/10.1002/da.23291
+
+**Date:** 12/05/2025 
+**Topic:** Reinforcement Learning 05: Iowa Gambling Task
+**Presenter:** Qiuyu Yu
 
 
