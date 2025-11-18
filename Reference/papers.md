@@ -36,8 +36,22 @@ Zhou, R., & Pitt, M. A. (2024). Dual-process modeling of sequential decision mak
 
 Liu, Q., Zhong, R., Ji, X., Law, S., Xiao, F., Wei, Y., Fang, S., Kong, X., Zhang, X., Yao, S., & Wang, X. (2022). Decision-making biases in suicide attempters with major depressive disorder: A computational modeling study using the balloon analog risk task (BART). Depression and anxiety, 39(12), 845–857. https://doi.org/10.1002/da.23291
 
-**Date:** 12/05/2025 
-**Topic:** Reinforcement Learning 05: Iowa Gambling Task
+**Date:** 11/21/2025
+**Topic:** Reinforcement Learning 04
+**Presenter:** Qiuyu Yu
+
+***Required Reading:***
+
+Ahn, Y., Krawitz, A., Kim, W., Busmeyer, J. R., & Brown, J. W. (2011). A Model-Based fMRI Analysis with Hierarchical Bayesian Parameter Estimation. Journal of Neuroscience, Psychology, and Economics, 4(2), 95. https://doi.org/10.1037/a0020684
+
+Daw, Nathaniel (2009). Trial-by-trial data analysis using computational models. http://www.princeton.edu/~ndaw/d10.pdf 
+
+***Additional Reading:***
+
+https://journal.r-project.org/articles/RJ-2018-017/index.html#citation
+
+**Date:** TBD
+**Topic:** Iowa Gambling Task
 **Presenter:** Qiuyu Yu
 
 

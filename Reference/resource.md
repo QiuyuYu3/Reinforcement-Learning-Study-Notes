@@ -22,6 +22,7 @@ https://ccs-lab.github.io/hBayesDM/index.html
 # Stan
 
 https://github.com/CCS-Lab/hBayesDM/tree/develop/commons/stan_files 
+https://mc-stan.org/learn-stan/diagnostics-warnings.html
 
  
 # Statistics
